@@ -1,6 +1,6 @@
 # IRIS_PCA
 
-This is a step-by-step guide on how PCA can be used to reduce dimensionality.
+A step-by-step guide on how PCA can be used to reduce dimensionality.
 
 The dataset used for this is the famous IRIS dataset. The dataset includes 4 features and 1 label.
 
